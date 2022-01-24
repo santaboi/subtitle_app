@@ -1,4 +1,5 @@
 import os
+from playsound import playsound
 print(os.path.abspath("./test_mp4/mp41.mp4"))
 
 def play_movie():
